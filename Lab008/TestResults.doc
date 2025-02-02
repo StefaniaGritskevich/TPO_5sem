@@ -1,0 +1,20 @@
+Test Results
+
+SerhTest_ShouldReturnCorrectSpans: Passed
+CurrencyChangingTest_CurrencyShouldChangeCorrectly: Passed
+CurrencyChangingTest_CurrencyShouldChangeCorrectly: Passed
+ShoppingCartTest_ItemShouldBeInCart: Passed
+FilterPriceTest_ShouldReturnOnlyRelevantItems: Passed
+FilterPriceTest_ShouldReturnOnlyRelevantItems: Failed
+
+TicketProAuthorization_ShouldReturnCookie: Passed
+
+SerhTest_ShouldReturnCorrectSpans: Failed
+CurrencyChangingTest_CurrencyShouldChangeCorrectly: Passed
+ShoppingCartTest_ItemShouldBeInCart: Failed
+ShoppingCartTest_ItemShouldBeInCart: Failed
+ShoppingCartTest_ItemShouldBeInCart: Failed
+ShoppingCartTest_ItemShouldBeInCart: Failed
+TicketProAuthorization_ShouldReturnCookie: Failed
+TicketProAuthorization_ShouldReturnCookie: Failed
+TicketProAuthorization_ShouldReturnCookie: Failed
